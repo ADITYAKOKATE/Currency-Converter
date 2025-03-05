@@ -17,3 +17,6 @@ A simple and efficient currency converter web application built using HTML, CSS,
 - The user selects the currency they want to convert from and the currency they want to convert to.
 - After entering the amount, the conversion is done in real-time based on the latest exchange rates.
 - The result is displayed instantly on the screen.
+
+## Screenshots
+<img src="Screenshot 2025-03-05 123120.png" width="600">
